@@ -1,3 +1,6 @@
 [submodule "cemex-hackaton-frontend"]
 	path = cemex-hackaton-frontend
 	url = https://github.com/SantiMartinezG/hackaton-cemex
+[submodule "cemex-hackaton-backend"]
+	path = cemex-hackaton-backend
+	url = https://github.com/SantiMartinezG/hackaton-cemex-backend
